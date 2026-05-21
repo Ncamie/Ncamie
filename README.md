@@ -1,4 +1,4 @@
-# 🌌 Hi, I'm Ncamsile Ntuli
+# Hi, I'm Ncamsile Ntuli
 
 <div align="center">
 
@@ -80,14 +80,14 @@ Mission:
 
 ### AI-Powered Education & Career Guidance Platform
 
-🚀 Helps South African learners transition into:
+Helps South African learners transition into:
 
 * Universities
 * TVET Colleges
 * Bursary Opportunities
 * Career Pathways
 
-### 🔥 Features
+### Features
 
 * AI Career Guidance
 * APS Calculator
@@ -96,31 +96,31 @@ Mission:
 * Educational Analytics
 * AI Chatbot Support
 
-🛠️ **Tech Stack:**
+ **Tech Stack:**
 Python • Firebase • Chart.js • AI Tools
 
-🔗 **Live Demo:**
+**Live Demo:**
 https://dynacademy.base44.app/universities
 
 </td>
 
 <td width="50%">
 
-## 📚 StudyPal
+## StudyPal
 
 ### Generative AI Learning Platform
 
-✨ AI-powered educational platform that generates:
+AI-powered educational platform that generates:
 
 * Quizzes
 * Flashcards
 * Lesson Plans
 * Study Guides
 
-🛠️ **Tech Stack:**
+**Tech Stack:**
 OpenAI API • Prompt Engineering • Responsive UI
 
-🔗 **Live Demo:**
+**Live Demo:**
 https://study-pal--ncaandlela09.replit.app/
 
 </td>
@@ -129,7 +129,7 @@ https://study-pal--ncaandlela09.replit.app/
 <tr>
 <td width="50%">
 
-## 🤖 DynaTech AI Chatbot
+## DynaTech AI Chatbot
 
 Educational conversational AI chatbot focused on:
 
@@ -138,18 +138,18 @@ Educational conversational AI chatbot focused on:
 * Guided Quizzes
 * Conversational Education
 
-🛠️ **Tech Stack:**
+**Tech Stack:**
 Botpress Cloud • Conversational AI
 
 </td>
 
 <td width="50%">
 
-## 🔐 Digital Employee Verification System
+## Digital Employee Verification System
 
 Biometric employee verification system designed to combat payroll fraud and ghost employees.
 
-🛠️ **Tech Stack:**
+**Tech Stack:**
 Flutter • ASP.NET MVC • Firebase • SQL
 
 </td>
