@@ -16,7 +16,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 <img align="right" width="380" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
@@ -40,7 +40,7 @@ Mission:
 
 ---
 
-# ⚡ Tech Arsenal
+# Tech Arsenal
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Helps South African learners transition into:
 * Educational Analytics
 * AI Chatbot Support
 
- **Tech Stack:**
+**Tech Stack:**
 Python • Firebase • Chart.js • AI Tools
 
 **Live Demo:**
@@ -106,7 +106,7 @@ https://dynacademy.base44.app/universities
 
 <td width="50%">
 
-## StudyPal
+## 📚 StudyPal
 
 ### Generative AI Learning Platform
 
@@ -129,7 +129,7 @@ https://study-pal--ncaandlela09.replit.app/
 <tr>
 <td width="50%">
 
-## DynaTech AI Chatbot
+## 🤖 DynaTech AI Chatbot
 
 Educational conversational AI chatbot focused on:
 
@@ -145,11 +145,11 @@ Botpress Cloud • Conversational AI
 
 <td width="50%">
 
-## Digital Employee Verification System
+## 🔐 Digital Employee Verification System
 
 Biometric employee verification system designed to combat payroll fraud and ghost employees.
 
-**Tech Stack:**
+🛠️ **Tech Stack:**
 Flutter • ASP.NET MVC • Firebase • SQL
 
 </td>
@@ -160,7 +160,7 @@ Flutter • ASP.NET MVC • Firebase • SQL
 
 ---
 
-# 🧠 Current Focus
+# Current Focus
 
 <div align="center">
 
@@ -195,19 +195,19 @@ mindmap
 
 # 🏆 Achievements & Certifications
 
-✨ AI Bootcamp — Coursera & CAPACITI
-✨ SANCS 2026 Alumni
-✨ IBM Python for Data Science, AI & Development
-✨ Cisco Certifications
-✨ Introduction to Modern AI
+ AI Bootcamp — Coursera & CAPACITI
+ SANCS 2026 Alumni
+ IBM Python for Data Science, AI & Development
+ Cisco Certifications
+ Introduction to Modern AI
 
 ---
 
-# 🌟 Vision Statement
+#  Vision Statement
 
 <div align="center">
 
-> ### “I want to build intelligent technology that creates real opportunities for people — using AI to improve education, accessibility, and innovation across Africa and beyond.”
+> ### “I want to build intelligent technology that creates real opportunities for people using AI to improve education, accessibility, and innovation across Africa and beyond.”
 
 </div>
 
@@ -217,8 +217,7 @@ mindmap
 
 <div align="center">
 
-LinkedIn: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white
-(https://www.linkedin.com/in/ncamsile-n-748901276)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ncamsile-n-748901276)
 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
 
@@ -232,6 +231,7 @@ LinkedIn: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00F7FF&height=120&section=footer"/>
 
-### ⚡ “Technology is most powerful when it empowers people.”
+###  “Innovation becomes meaningful when technology starts changing lives.”
 
 </div>
+
