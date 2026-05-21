@@ -195,7 +195,7 @@ mindmap
 
 # 🏆 Achievements & Certifications
 
- AI Bootcamp — Coursera & CAPACITI
+ AI Bootcamp - Coursera & CAPACITI
  SANCS 2026 Alumni
  IBM Python for Data Science, AI & Development
  Cisco Certifications
