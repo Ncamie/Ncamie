@@ -219,7 +219,7 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ncamsile-n-748901276)
 
-[![GitHub](https://github.com/Ncamie/Ncamie)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ncamie/Ncamie)
 
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ntulincamsile08@gmail.com)
 
