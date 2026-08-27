@@ -1,91 +1,158 @@
-# Hi, I'm Ncamsile Ntuli
+# Hi, I'm Ncamsile Ntuli 👋
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI-Powered+Application+Developer;IT+Graduate+%7C+SANCS+Alumni;Building+Intelligent+Digital+Solutions;Future+AI+Engineer+from+South+Africa;Educational+Technology+Innovator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=IT+Graduate+%7C+Software+Developer;AI+%26+Technology+Enthusiast;QA+%26+Software+Testing+Enthusiast;Building+Intelligent+Digital+Solutions;IT+Support+Intern;Future+AI+Engineer+from+South+Africa" />
 
 </div>
+
+<p align="center">
+  <b>Software Development • Artificial Intelligence • QA & Testing • IT Support • Educational Technology</b>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flutter,firebase,html,css,mysql,git,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cs,flutter,dotnet,firebase,html,css,mysql,sqlite,git,github,figma,vscode" />
 
 </div>
 
 ---
 
-# About Me
+# 👩🏽‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 ```yaml
 Name: Ncamsile Ntuli
 Location: Durban, KwaZulu-Natal, South Africa
 Education: Diploma in Information Technology
-Current Role: IT Support Intern at CAPACITI hosted by CX Experts
-Focus Areas:
+Specialisation: Software Development
+
+Current Role:
+  IT Support Intern at CAPACITI
+
+Interests:
   - Artificial Intelligence
   - Software Development
+  - Quality Assurance & Software Testing
   - Educational Technology
+  - IT Support
   - Intelligent Systems
-  - Technical Support
-  - AI-Powered Applications
+  - Digital Solutions
 
-Mission:
-  Building intelligent technology that creates
-  real opportunities for people across Africa.
+Currently Learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Testing
+  - Technical Support
+  - AI-Powered Application Development
+
+Goal:
+  Build practical technology solutions that solve real-world
+  problems and create opportunities through innovation.
 ```
 
----
+I am an **IT graduate specialising in Software Development** with a growing interest in **Artificial Intelligence, Quality Assurance, Software Testing and technical support**.
 
-# Tech Arsenal
+I enjoy exploring how technology works, identifying problems, improving applications and building solutions that are practical and user-focused.
 
-<div align="center">
-
-## 👨‍💻 Programming & Development
-
-<img src="https://skillicons.dev/icons?i=python,cs,flutter,html,css,nodejs,dotnet" />
+My experience includes working with **Flutter, Firebase, ASP.NET Core, C#, Python, SQL and AI-powered platforms**, while my current IT support experience continues to strengthen my troubleshooting, communication and problem-solving skills.
 
 ---
 
-## 🤖 AI • Data • Cloud • Databases
+# 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
+## 💻 Programming & Development
 
-</div>
-
-<br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI-Powered%20Systems-0f172a?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Educational%20Technology-111827?style=for-the-badge"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,flutter,dotnet,html,css,nodejs" />
 </p>
 
+* Python
+* C#
+* Flutter / Dart
+* ASP.NET Core MVC
+* HTML & CSS
+* Node.js
+
 ---
 
-# 🌍 Featured AI Projects
+## 🤖 AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite" />
+</p>
+
+* Artificial Intelligence
+* Prompt Engineering
+* Generative AI
+* Machine Learning Fundamentals
+* AI-powered applications
+* Data analysis fundamentals
+* Power BI
+
+---
+
+## Cloud, Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,figma,vscode" />
+</p>
+
+* Firebase Authentication
+* Firestore
+* Firebase Realtime Database
+* MySQL
+* SQLite
+* Git & GitHub
+* Visual Studio
+* Visual Studio Code
+* Figma
+
+---
+
+## Quality Assurance & IT Support
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Quality%20Assurance-Testing-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Manual%20Testing-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bug%20Reporting-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IT%20Support-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Troubleshooting-111827?style=for-the-badge"/>
+
+</p>
+
+My QA and technical interests include:
+
+* Manual software testing
+* Functional testing
+* Identifying defects and inconsistencies
+* Usability testing
+* Bug reporting
+* Troubleshooting
+* Technical support
+* Basic test documentation
+* Understanding user requirements
+
+---
+
+# Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## 🎓 Dynacademy
 
 ### AI-Powered Education & Career Guidance Platform
 
-Helps South African learners transition into:
-
-* Universities
-* TVET Colleges
-* Bursary Opportunities
-* Career Pathways
+A platform designed to help South African learners explore education and career opportunities.
 
 ### Features
 
@@ -110,12 +177,15 @@ https://dynacademy.base44.app/universities
 
 ### Generative AI Learning Platform
 
-AI-powered educational platform that generates:
+An AI-powered learning platform designed to assist students with studying and educational content creation.
 
-* Quizzes
+### Features
+
+* AI-generated quizzes
 * Flashcards
-* Lesson Plans
-* Study Guides
+* Lesson plans
+* Study guides
+* Interactive learning
 
 **Tech Stack:**
 OpenAI API • Prompt Engineering • Responsive UI
@@ -124,19 +194,25 @@ OpenAI API • Prompt Engineering • Responsive UI
 https://study-pal--ncaandlela09.replit.app/
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ## 🤖 DynaTech AI Chatbot
 
-Educational conversational AI chatbot focused on:
+### Conversational Educational AI
 
-* AI Literacy
-* Interactive Learning
-* Guided Quizzes
-* Conversational Education
+An educational chatbot focused on improving AI literacy and interactive learning.
+
+### Features
+
+* AI literacy
+* Interactive learning
+* Guided quizzes
+* Conversational education
 
 **Tech Stack:**
 Botpress Cloud • Conversational AI
@@ -145,14 +221,72 @@ Botpress Cloud • Conversational AI
 
 <td width="50%">
 
-## 🔐 Digital Employee Verification System
+## 📱 DEVS Project
 
-Biometric employee verification system designed to combat payroll fraud and ghost employees.
+### Integrated Mobile & Web Application
 
-🛠️ **Tech Stack:**
-Flutter • ASP.NET MVC • Firebase • SQL
+A practical development project involving a mobile application and web application with cloud-based services.
+
+**Tech Stack:**
+Flutter • ASP.NET Core MVC • Firebase
+
+### Focus
+
+* Mobile development
+* Web development
+* Firebase integration
+* Authentication
+* Application functionality
+* Troubleshooting and debugging
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## Digital Employee Verification System
+
+### Biometric Employee Verification
+
+A digital employee verification concept designed to improve employee authentication and help address payroll fraud and ghost employees.
+
+**Tech Stack:**
+Flutter • ASP.NET MVC • Firebase • SQL
+
+### Focus
+
+* Biometric authentication
+* Employee verification
+* Database integration
+* Mobile application development
+
+</td>
+
+<td width="50%">
+
+## Consultation Booking Application
+
+### Mobile Booking System
+
+A Flutter-based application designed to manage consultation bookings.
+
+**Tech Stack:**
+Flutter • Dart • Provider • Firebase
+
+### Focus
+
+* Booking management
+* State management
+* Firebase integration
+* Authentication
+* Firestore
+* MVVM architecture
+
+</td>
+
 </tr>
 </table>
 
@@ -160,34 +294,78 @@ Flutter • ASP.NET MVC • Firebase • SQL
 
 ---
 
-# Current Focus
+#  QA & Testing Journey
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((AI & Technology))
-    Artificial Intelligence
-    Machine Learning
-    Educational Technology
-    AI-Powered Applications
-    Intelligent Automation
-    Technical Support
-    Software Development
-    Cybersecurity Awareness
-```
+<img src="https://img.shields.io/badge/QA%20%26%20Testing-Active-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Code4Impact-QA%20Cohort%202026-111827?style=for-the-badge"/>
 
 </div>
 
+I have a strong interest in **Quality Assurance and software testing**, particularly in understanding how applications behave from a user's perspective.
+
+I enjoy:
+
+* Exploring applications
+* Finding defects and inconsistencies
+* Testing functionality
+* Evaluating usability
+* Identifying edge cases
+* Documenting issues
+* Suggesting improvements
+* Understanding how systems can be made more reliable
+
+I am also continuously developing my knowledge of software testing methodologies and QA practices.
+
 ---
 
-# 📈 GitHub Analytics
+# Current Focus
+
+```mermaid
+mindmap
+  root((Technology))
+    Artificial Intelligence
+      Generative AI
+      Prompt Engineering
+      Machine Learning
+    Software Development
+      Flutter
+      ASP.NET Core
+      Firebase
+      Python
+    Quality Assurance
+      Manual Testing
+      Bug Reporting
+      Usability Testing
+      Defect Identification
+    IT Support
+      Troubleshooting
+      Technical Support
+      User Assistance
+    Educational Technology
+      AI Learning Tools
+      Career Guidance
+      Digital Education
+```
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Ncamie&theme=tokyonight&hide_border=true&background=0D1117" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ncamie&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ncamie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -195,33 +373,42 @@ mindmap
 
 # 🏆 Achievements & Certifications
 
- AI Bootcamp - Coursera & CAPACITI
- SANCS 2026 Alumni
- IBM Python for Data Science, AI & Development
- Cisco Certifications
- Introduction to Modern AI
+* 🎓 Diploma in Information Technology – Central University of Technology
+* 💻 CAPACITI IT / Technology Programme
+* 🧪 Code4Impact QA Cohort 2026
+* 🤖 AI Bootcamp – Coursera & CAPACITI
+* 🏅 SANCS 2026 Alumni
+* 🐍 IBM Python for Data Science, AI & Development
+* 🌐 Cisco Certifications
+* 🤖 Introduction to Modern AI
 
 ---
 
-#  Vision Statement
+# 🌍 My Vision
 
 <div align="center">
 
-> ### “I want to build intelligent technology that creates real opportunities for people using AI to improve education, accessibility, and innovation across Africa and beyond.”
+> ### "I want to build intelligent technology that creates real opportunities for people by improving education, accessibility and innovation across Africa and beyond."
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ncamsile-n-748901276)
+<a href="https://www.linkedin.com/in/ncamsile-n-748901276">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ncamie/Ncamie)
+<a href="https://github.com/Ncamie">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ntulincamsile08@gmail.com)
+<a href="mailto:ntulincamsile08@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -231,7 +418,8 @@ mindmap
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00F7FF&height=120&section=footer"/>
 
-###  “Innovation becomes meaningful when technology starts changing lives.”
+### "Innovation becomes meaningful when technology starts changing lives."
 
 </div>
+
 
