@@ -1,4 +1,4 @@
-# Hi, I'm Ncamsile Ntuli 👋
+# Hi, I'm Ncamsile Ntuli 
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 ---
 
-# 👩🏽‍💻 About Me
+# About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
@@ -62,9 +62,9 @@ My experience includes working with **Flutter, Firebase, ASP.NET Core, C#, Pytho
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 💻 Programming & Development
+## Programming & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cs,flutter,dotnet,html,css,nodejs" />
@@ -79,7 +79,7 @@ My experience includes working with **Flutter, Firebase, ASP.NET Core, C#, Pytho
 
 ---
 
-## 🤖 AI & Data
+## AI & Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,sqlite" />
@@ -148,7 +148,7 @@ My QA and technical interests include:
 
 <td width="50%">
 
-## 🎓 Dynacademy
+## Dynacademy
 
 ### AI-Powered Education & Career Guidance Platform
 
@@ -173,7 +173,7 @@ https://dynacademy.base44.app/universities
 
 <td width="50%">
 
-## 📚 StudyPal
+## StudyPal
 
 ### Generative AI Learning Platform
 
@@ -201,7 +201,7 @@ https://study-pal--ncaandlela09.replit.app/
 
 <td width="50%">
 
-## 🤖 DynaTech AI Chatbot
+## DynaTech AI Chatbot
 
 ### Conversational Educational AI
 
@@ -221,7 +221,7 @@ Botpress Cloud • Conversational AI
 
 <td width="50%">
 
-## 📱 DEVS Project
+## DEVS Project
 
 ### Integrated Mobile & Web Application
 
@@ -371,20 +371,20 @@ mindmap
 
 ---
 
-# 🏆 Achievements & Certifications
+# Achievements & Certifications
 
-* 🎓 Diploma in Information Technology – Central University of Technology
-* 💻 CAPACITI IT / Technology Programme
-* 🧪 Code4Impact QA Cohort 2026
-* 🤖 AI Bootcamp – Coursera & CAPACITI
-* 🏅 SANCS 2026 Alumni
-* 🐍 IBM Python for Data Science, AI & Development
-* 🌐 Cisco Certifications
-* 🤖 Introduction to Modern AI
+* Diploma in Information Technology – Central University of Technology
+* CAPACITI IT / Technology Programme
+* Code4Impact QA Cohort 2026
+* AI Bootcamp – Coursera & CAPACITI
+* SANCS 2026 Alumni
+* IBM Python for Data Science, AI & Development
+* Cisco Certifications
+* Introduction to Modern AI
 
 ---
 
-# 🌍 My Vision
+# My Vision
 
 <div align="center">
 
@@ -394,7 +394,7 @@ mindmap
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 
