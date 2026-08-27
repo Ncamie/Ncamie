@@ -351,26 +351,6 @@ mindmap
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Ncamie&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ncamie&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ncamie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
 # Achievements & Certifications
 
 * Diploma in Information Technology – Central University of Technology
