@@ -31,7 +31,7 @@ Education: Diploma in Information Technology
 Specialisation: Software Development
 
 Current Role:
-  IT Support Intern at CAPACITI
+  AI Dev & Service Desk Trainee at CAPACITI
 
 Interests:
   - Artificial Intelligence
