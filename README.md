@@ -30,7 +30,7 @@ Location: Durban, KwaZulu-Natal, South Africa
 Education: Diploma in Information Technology
 Specialisation: Software Development
 
-Current Role:
+Recent Role:
   AI Dev & Service Desk Trainee at CAPACITI
 
 Interests:
